@@ -10,7 +10,7 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3
 
 
-![Diagramma](diagram.png)
+![](Ex001/diagram.png)
 
 
 [Code](Ex001/Program.cs)
@@ -24,7 +24,7 @@ a = -9 b = -3 -> max = -3
 
 22 3 9 -> 22
 
-![Diagramma](diagram1.png)
+![](Ex002/diagram1.png)
 
 [Code](Ex002/Program.cs)
 
@@ -34,7 +34,7 @@ a = -9 b = -3 -> max = -3
 -3 -> нет
 7 -> нет
 
-![Diagramma](diagram2.png)
+![](Ex003/diagram%202.png)
 
 [Code](Ex003/Program.cs)
 
@@ -43,7 +43,7 @@ a = -9 b = -3 -> max = -3
 5 -> 2, 4
 8 -> 2, 4, 6, 8
 
-![Diagramma](diagram3.png)
+![](Ex004/diagram3.png)
 
 [Code](Ex004/Program.cs)
 
